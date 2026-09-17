@@ -1,0 +1,2 @@
+# gokboru-assistant
+private
